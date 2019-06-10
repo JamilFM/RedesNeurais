@@ -1,0 +1,4003 @@
+Topologia: 2 4 1
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 0.0 0.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 0.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 1.0 
+Saída: 1.0
+Entrada: 1.0 1.0 
+Saída: 0.0
+Entrada: 0.0 0.0 
+Saída: 0.0
